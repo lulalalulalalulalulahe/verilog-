@@ -42,5 +42,6 @@ parameter e=25,f=29;
 
 3.3运算符
 --
+![](https://github.com/lulalalulalalulalulahe/verilog-/blob/main/%E8%BF%90%E7%AE%97%E7%AC%A6.png)
 
 
