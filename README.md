@@ -28,9 +28,9 @@
 （3）负数： 在位宽前加- eg：-8'd5  
 
 （4）下划线：只能用于数字之间，不可以在位宽和进制处使用，用于分隔开数  eg：16'b1010_1111_1010  
-2.参数（ parameter ）型  
- parameter msb=7;  
- parameter e=25,f=29;  
+2.参数（parameter）型  
+parameter msb=7;  
+parameter e=25,f=29;  
 只能包括数字或先前已定义过的参数 parameter average_delay=(r+f)/2  
 
 3.3.2变量  
